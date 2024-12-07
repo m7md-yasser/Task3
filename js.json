@@ -1,0 +1,3 @@
+{
+  "conf": "Server = .; Database = University Management System ; Integrated Security = SSPI; TrustServerCertificate = True;"
+}
